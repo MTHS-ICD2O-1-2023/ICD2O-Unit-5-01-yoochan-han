@@ -1,11 +1,29 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="783" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="7">
+                    <mxGeometry y="20" width="760" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Guessing Random Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="30" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Computer will generate numbers 1 to 6." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="7">
+                    <mxGeometry x="29" y="80" width="371" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Your number" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="130" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Test your luck" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="180" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="True! / False...(Answer)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="7">
+                    <mxGeometry x="29" y="240" width="140" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
