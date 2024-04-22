@@ -9,9 +9,9 @@ const userAnswer = document.getElementById("get_UserAnswer").value
 const randomNumber = Math.floor(Math.random() * 6) + 1
 // returns a random integer from 1 to 6 into variable "randomNumber"
 if (userAnswer == randomNumber) {
-  document.getElementById("TheAnswer").innerHTML = "True!"
+  document.getElementById("TheAnswer").innerHTML = "<h4 style='color: blue;'>True!<h4>"
 }
 else {
-  document.getElementById("TheAnswer").innerHTML = "False.."
+  document.getElementById("TheAnswer").innerHTML = "<h4 style='color: red;'>False..<h4>"
 }
 }

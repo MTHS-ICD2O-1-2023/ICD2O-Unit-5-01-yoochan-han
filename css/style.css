@@ -21,3 +21,7 @@ h2 {
   color: darkgreen;
   font-style: oblique;
 }
+
+#TheAnswer {
+  left: 30px;
+}
