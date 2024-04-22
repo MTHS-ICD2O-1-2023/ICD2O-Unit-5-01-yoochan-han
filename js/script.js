@@ -12,6 +12,6 @@ if (userAnswer == randomNumber) {
   document.getElementById("TheAnswer").innerHTML = "True!"
 }
 else {
-  document.getElementById("TheAsnwer").innerHTML = "False.."
+  document.getElementById("TheAnswer").innerHTML = "False.."
 }
 }
