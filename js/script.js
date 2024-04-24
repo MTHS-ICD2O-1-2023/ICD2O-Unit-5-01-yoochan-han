@@ -10,8 +10,7 @@ const randomNumber = Math.floor(Math.random() * 6) + 1
 // returns a random integer from 1 to 6 into variable "randomNumber"
 if (userAnswer == randomNumber) {
   document.getElementById("TheAnswer").innerHTML = "True!"
-}
-else {
+} else {
   document.getElementById("TheAnswer").innerHTML = "False.."
 }
 }
